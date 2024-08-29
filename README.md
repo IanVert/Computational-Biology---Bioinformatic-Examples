@@ -1,1 +1,1 @@
-# Computational-Biology---Bioinformatic-Examples
+# Bioinformatic & Computational Biology Examples
